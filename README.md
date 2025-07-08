@@ -28,12 +28,5 @@ I'm always open to learning, collaborating on open-source, and new ideas!
 
 ---
 
-### ⚡ GitHub Stats
-
-[![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisisAtharv&show_icons=true&theme=dark)](https://github.com/thisisAtharv)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisAtharv&layout=compact)](https://github.com/thisisAtharv)
-
----
 
 _🌱 Stay curious, stay building._
