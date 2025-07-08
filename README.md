@@ -1,18 +1,39 @@
-## Hi there 👋
+### Hi there, I'm Atharv! 👋  
 
-<!--
-**thisisAtharv/thisisAtharv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile — a place where I share what I build, explore, and learn.  
+Feel free to browse my projects or connect for collaboration!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thisisAtharv&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thisisAthav/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisAtharv&layout=compact)
+## 🚀 Lifelong learner
+
+---
+
+### 🚀 About Me  
+- 💻 Developer with interests in full-stack web development and cloud computing.  
+- 🛠️ Worked on desktop apps using **Python**, **Java Swing + MySQL**, and web projects using **React**, **Node.js**, and **MongoDB**.  
+- 📊 Exploring **Data Structures**, **Algorithms**, and **Machine Learning**.
+
+---
+
+### 🔧 Technologies & Tools  
+- **Languages**: Java, JavaScript, Python, C, HTML/CSS  
+- **Frameworks & Tools**: React.js, Node.js, Express, MySQL, MongoDB, Java Swing, Git  
+
+---
+
+### 📫 Let's Connect  
+I'm always open to learning, collaborating on open-source, and new ideas!  
+📩 Email: **atharvgangawane1@gmail.com**
+
+---
+
+### ⚡ GitHub Stats
+
+[![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisisAtharv&show_icons=true&theme=dark)](https://github.com/thisisAtharv)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisAtharv&layout=compact)](https://github.com/thisisAtharv)
+
+---
+
+_🌱 Stay curious, stay building._
