@@ -4,11 +4,6 @@ Welcome to my GitHub profile — a place where I share what I build, explore, an
 Feel free to browse my projects or connect for collaboration!
 
 ---
-
-## 🚀 Lifelong learner
-
----
-
 ### 🚀 About Me  
 - 💻 Developer with interests in full-stack web development and cloud computing.  
 - 🛠️ Worked on desktop apps using **Python**, **Java Swing + MySQL**, and web projects using **React**, **Node.js**, and **MongoDB**.  
