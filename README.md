@@ -5,7 +5,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV6dXBoamx2MWRmNzQ1eGlvZTRicTl4MTczN2tzcmlxb2UzdHcwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Animated Poster" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Atharv</h1>
+<h1 align="center">Hi 👋, I'm Atharv Gangawane</h1>
 <h3 align="center">A 3rd-year IT student passionate about Full Stack Development, AI/ML, and building practical solutions.</h3>
 
 <div align="center">
