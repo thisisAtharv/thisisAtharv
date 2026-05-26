@@ -5,7 +5,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV6dXBoamx2MWRmNzQ1eGlvZTRicTl4MTczN2tzcmlxb2UzdHcwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="100%" alt="Animated Poster" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Atharv Gangawane</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />, I'm Atharv Gangawane</h1>
 <h3 align="center">A 3rd-year IT student passionate about Full Stack Development, AI/ML, and building practical solutions.</h3>
 
 <div align="center">
@@ -56,11 +56,11 @@
 
 ## 🌟 Notable Projects
 
-- **Vitality** – A machine learning system for lifestyle risk classification that uses multi-output classification to generate personalized diet and exercise plan PDFs.
-- **Chitx** – A robust finance-focused application built to handle and streamline specific financial workflows.
-- **ExamEdge** – A full-stack educational platform built with modern web technologies.
-- **Swish** – A comprehensive full-stack web application leveraging the MERN stack.
-- **Expense Tracker** – A desktop application built with **Java Swing** and **MySQL** to manage and track daily finances.
+- **Vitality** – A HealthTech platform using an AI-OCR microservice and Machine Learning (multi-output classification) to generate personalized health protocols and diet/exercise plan PDFs from medical reports.
+- **ChitX** – An AI-powered decentralized chit fund protocol enabling transparent, peer-to-peer saving and borrowing. It leverages ML-driven trust scoring and Sepolia smart contracts to eliminate middlemen and ensure fair, efficient fund allocation.
+- **Swish** – A full-stack MERN social media platform designed for college campuses. Features include a dynamic feed, 24-hour Instagram-style stories, post bookmarking, and real-time notifications for student communities.
+- **ExamEdge** – A full-stack web application for UPSC preparation using React, Firebase authentication, and n8n automation.
+- **Smart Expense Tracker** – A smart and simple Java app to track income and expenses, includes dynamic charts, category management, and transaction filters.
 
 <br />
 
