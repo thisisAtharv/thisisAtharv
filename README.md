@@ -60,6 +60,7 @@
 - **ChitX** – An AI-powered decentralized chit fund protocol enabling transparent, peer-to-peer saving and borrowing. It leverages ML-driven trust scoring and Sepolia smart contracts to eliminate middlemen and ensure fair, efficient fund allocation.
 - **Swish** – A full-stack MERN social media platform designed for college campuses. Features include a dynamic feed, 24-hour Instagram-style stories, post bookmarking, and real-time notifications for student communities.
 - **ExamEdge** – A full-stack web application for UPSC preparation using React, Firebase authentication, and n8n automation.
+- **Virtual Banking System** – A desktop application built with **Java Swing** and **SQL** to simulate core financial operations, manage user accounts, and securely handle transactions.
 - **Smart Expense Tracker** – A smart and simple Java app to track income and expenses, includes dynamic charts, category management, and transaction filters.
 
 <br />
