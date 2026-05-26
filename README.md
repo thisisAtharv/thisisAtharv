@@ -15,9 +15,9 @@
   <a href="https://www.linkedin.com/in/atharv-gangawane/">
     <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Gangawane-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-<a href="https://github.com/thisisAtharv">
-  <img src="https://badgen.net/github/followers/thisisAtharv?icon=github&color=blue&label=GitHub%20Followers" alt="GitHub Followers" />
-</a>
+  <a href="https://github.com/thisisAtharv">
+  <img src="https://img.shields.io/github/followers/thisisAtharv?style=social&logo=github" alt="GitHub Followers" />
+  </a>
 </div>
 
 <br />
