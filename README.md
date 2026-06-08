@@ -44,6 +44,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel,postman" height="40" alt="Tools" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="40" alt="Render" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" height="40" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" height="40" alt="spaCy" />
+</p>
 
 <br />
 
