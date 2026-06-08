@@ -49,10 +49,7 @@
 
 ## 🏆 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisAtharv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" alt="Atharv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisAtharv&layout=compact&theme=tokyonight&hide_border=true" height="180em" alt="Atharv's Top Languages" />
-</div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisAtharv&theme=tokyonight&hide_border=true" height="180em" alt="Atharv's Streak Stats" /> </div> 
 <br />
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisAtharv&theme=tokyo-night&hide_border=true" width="100%" alt="Atharv's Activity Graph" />
